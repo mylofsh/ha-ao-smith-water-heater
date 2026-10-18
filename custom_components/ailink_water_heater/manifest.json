@@ -5,8 +5,8 @@
     "@mylofsh"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/mylofsh/ha-ailink-heater",
-  "issue_tracker": "https://github.com/mylofsh/ha-ailink-heater/issues",
+  "documentation": "https://github.com/mylofsh/ha-ao-smith-water-heater",
+  "issue_tracker": "https://github.com/mylofsh/ha-ao-smith-water-heater/issues",
   "iot_class": "cloud_polling",
   "version": "1.0.5",
   "requirements": [

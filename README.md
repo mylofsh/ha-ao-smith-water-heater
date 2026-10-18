@@ -16,7 +16,7 @@ Home Assistant 集成：控制 A.O.史密斯 AI-LiNK 智慧家燃气热水器。
 ### HACS（推荐）
 
 1. HACS → 集成 → 右上角菜单 → **自定义存储库**
-2. 填入 `https://github.com/mylofsh/ha-ailink-heater`，类型选 **Integration**
+2. 填入 `https://github.com/mylofsh/ha-ao-smith-water-heater`，类型选 **Integration**
 3. 搜索「AI-LiNK Water Heater」安装
 4. **重启 Home Assistant**
 
